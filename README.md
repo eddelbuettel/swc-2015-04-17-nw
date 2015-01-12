@@ -1,5 +1,5 @@
 # SWC R bootcamp, Northwestern University
-October 31th - November 1st, 2014
+April 17th - 18th, 2015
 
 [Allen Center](http://www.kellogg.northwestern.edu/execed/our_learning_environment/allen_center.aspx)
 
@@ -11,6 +11,9 @@ __Schedule__
 
 __Friday__
 
+__Friday__
+
+<!---
 | Time Slot | Lesson |
 | --------  | ----- | 
 | Morning session 1 | [Shell](http://karthik.github.io/2014-10-31-nw/novice/shell/) |
@@ -18,4 +21,4 @@ __Friday__
 | 12-1 | Lunch |
 | Afternoon session 1 | Functions in R |
 | Afternoon session 2 | Data Munging in R |
-
+-->
