@@ -1,4 +1,5 @@
-# SWC R bootcamp, Northwestern University
+## Software Carpentry R workshop at Northwestern University
+
 April 17th - 18th, 2015
 
 Location to be determined.
