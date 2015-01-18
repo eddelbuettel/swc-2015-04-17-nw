@@ -1,6 +1,14 @@
-## Software Carpentry R workshop at Northwestern University
+## Software Carpentry R workshop at Northwestern 
+
+### Site
+
+[Website](http://eddelbuettel.github.io/swc-2015-04-17-nw/)
+
+### Dates
 
 April 17th - 18th, 2015
+
+### Location
 
 Location to be determined.
 
