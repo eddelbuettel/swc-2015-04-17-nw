@@ -1,7 +1,7 @@
 # SWC R bootcamp, Northwestern University
 April 17th - 18th, 2015
 
-[Allen Center](http://www.kellogg.northwestern.edu/execed/our_learning_environment/allen_center.aspx)
+Location to be determined.
 
 __Etherpad__
 
@@ -11,7 +11,7 @@ __Schedule__
 
 __Friday__
 
-__Friday__
+__Saturday__
 
 <!---
 | Time Slot | Lesson |
